@@ -1,0 +1,6 @@
+phone (without area code) : [REPLACE THIS WITH YOUR PHONE NUMBER]
+account : [REPLACE THIS WITH YOUR ACCOUNT ID]
+
+--- NOTE ---
+0. Don't delete this file unless you know what you are doing.
+1. Simply provide information asked information.
